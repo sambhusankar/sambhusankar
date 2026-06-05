@@ -55,4 +55,4 @@ I'm a passionate developer skilled in building impactful software, powering data
 
 ## 📫 Connect with me
 
-- Email: [sambhusankarswain@email.com]
+- Email: [sambhusankarswain@gmail.com]
